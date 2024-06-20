@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "About",
+      "body": "Some data about me My name is Cristi, I am a versatile professional with experience both as a trainer in coding and as an Accounting Assistant. In my role as a trainer, I instructed children in various programming languages, covering game development, website creation, and Python/C++ programming, along with hands-on experience in Arduino. As an Accounting Assistant, I am adept at efficiently managing payroll for drivers, handling documentation, tracking expenses, and maintaining accurate financial records. With a strong focus on detail, organization, and commitment to ensuring employee satisfaction, I contribute to the smooth operation and overall success of the teams I work with. Additionally, I am passionate about technology and enjoy learning new skills and staying updated with the latest advancements in the field.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "title": "Canonical",
+      "body": "Canonical is a term used in SEO (Search Engine Optimization) to refer to the canonical URL for a page. This is the URL that you want visitors to see and that you want search engines to index. By specifying a canonical URL, you tell search engines that certain similar URLs are actually the same. This can help to consolidate link signals for duplicate or similar content, improving your site's SEO. Implementing the rel='canonical' link element in the head section of your HTML can prevent search engines from treating those URLs as separate pages, which could dilute your page rank.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 3,
+      "title": "The Internet",
+      "body": "The Internet (or internet)[a] is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP)[b] to communicate between networks and devices. It is a network of networks that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies. The Internet carries a vast range of information resources and services, such as the interlinked hypertext documents and applications of the World Wide Web (WWW), electronic mail, telephony, and file sharing.",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+}
